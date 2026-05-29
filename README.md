@@ -36,8 +36,4 @@ Com a base padronizada e os cálculos matemáticos viabilizados, extraí as segu
 ### 4. Carga (Load)
 * Exportação do DataFrame final tratado para um novo arquivo CSV (`netflix_limpa_final.csv`), sem o índice nativo do Pandas (`index=False`), estruturado e pronto para a criação de dashboards pela equipe de BI.
 
-## 🚀 Como Executar
 
-1. Clone o repositório:
-   ```bash
-   git clone [https://github.com/SEU_USUARIO/NOME_DO_REPOSITORIO.git](https://github.com/SEU_USUARIO/NOME_DO_REPOSITORIO.git)
